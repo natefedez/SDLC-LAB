@@ -1,5 +1,11 @@
 [
   {
+    "equipo": "Equipo 1",
+    "app": "OWASP PyGoat",
+    "repo": "GaelRuizNuri/sdlc-pygoat-equipo-1",
+    "pages": "https://gaelruiznuri.github.io/sdlc-pygoat-equipo-1/"
+  },
+  {
     "equipo": "Equipo 3",
     "app": "OWASP RailsGoat",
     "repo": "aaaron27/sdlc-railsgoat-equipo-3",
