@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "equipo": "Equipo 3",
+    "app": "OWASP RailsGoat",
+    "repo": "aaaron27/sdlc-railsgoat-equipo-3",
+    "pages": "https://aaaron27.github.io/sdlc-railsgoat-equipo-3/"
+  }
+]
