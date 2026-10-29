@@ -16,5 +16,11 @@
     "app": "OWASP RailsGoat",
     "repo": "aaaron27/sdlc-railsgoat-equipo-3",
     "pages": "https://aaaron27.github.io/sdlc-railsgoat-equipo-3/"
+  },
+  {
+    "equipo": "Equipo 4",
+    "app": "VAmPI",
+    "repo": "unisonos/sdlc-vampi-equipo-4",
+    "pages": "https://unisonos.github.io/sdlc-vampi-equipo-4/"
   }
 ]
