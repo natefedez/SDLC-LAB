@@ -6,6 +6,12 @@
     "pages": "https://gaelruiznuri.github.io/sdlc-pygoat-equipo-1/"
   },
   {
+    "equipo": "Equipo 2",
+    "app": "OWASP Juice Shop",
+    "repo": "ManfredAzofeifa/sdlc-juice-shop-equipo-2",
+    "pages": "https://manfredazofeifa.github.io/sdlc-juice-shop-equipo-2/"
+  },
+  {
     "equipo": "Equipo 3",
     "app": "OWASP RailsGoat",
     "repo": "aaaron27/sdlc-railsgoat-equipo-3",
